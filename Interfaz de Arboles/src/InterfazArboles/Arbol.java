@@ -99,4 +99,4 @@ public class Arbol extends EstructuraDato {
         TimeUnit.SECONDS.sleep(1L); // Este tiempo de espera podría estar bloqueando la interfaz
     } catch (InterruptedException ignored) {}
     }
-}
+} 
