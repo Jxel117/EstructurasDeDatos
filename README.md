@@ -1,29 +1,16 @@
 # Estructuras de Datos en Java
+Desarrollado por:<br>
+Ariel Tandazo<br>
+Juan Veintimilla<br>
+Joel Tapia<br>
 
 ## Descripción
 
 Este repositorio contiene implementaciones de varias estructuras de datos en Java, junto con sus respectivos diagramas de clases. Las estructuras incluidas son:
 
 - Árboles Binarios (AVL y Rojo-Negro)
-- Listas Enlazadas
-- Listas Doblemente Enlazadas
-- Listas Circulares
-- Listas Doblemente Circulares
 
 ## Funcionalidades
-### Caracteristicas implementadas 🪄
-
-| Funciones | Y/N |
-| :--------------------: | :---: |
-| Agregar nodos | ✅ |
-| Eliminar nodos | ✅ |
-| Recorrer PreOrden | ✅ |
-| Recorrer PostOrden |  ✅ |
-| Recorrer EnOrden|  ✅ |
-| Arbol Simple | ✅ |
-| Arvol AVL | ✅|
-| Arbol RojoNegro |  ❌|
-| Mas funcionalidades Proximamente | ♻️ |
 
 ### Árboles Binarios
 
@@ -36,35 +23,3 @@ Este repositorio contiene implementaciones de varias estructuras de datos en Jav
   - En orden (In-order)
   - Postorden (Post-order)
   - Preorden (Pre-order)
-
-### Listas Enlazadas
-
-- **Operaciones:** 
-  - Agregar
-  - Insertar
-  - Eliminar
-- **Presentación:** De acuerdo al orden de inserción
-
-### Listas Doblemente Enlazadas
-
-- **Operaciones:** 
-  - Agregar
-  - Insertar
-  - Eliminar
-- **Presentación:** De acuerdo al orden de inserción
-
-### Listas Circulares
-
-- **Operaciones:** 
-  - Agregar
-  - Insertar
-  - Eliminar
-- **Presentación:** De acuerdo al orden de inserción
-
-### Listas Doblemente Circulares
-
-- **Operaciones:** 
-  - Agregar
-  - Insertar
-  - Eliminar
-- **Presentación:** De acuerdo al orden de inserción
