@@ -11,6 +11,19 @@ Este repositorio contiene implementaciones de varias estructuras de datos en Jav
 - Listas Doblemente Circulares
 
 ## Funcionalidades
+### Caracteristicas implementadas 🪄
+
+| Funciones | Y/N |
+| :--------------------: | :---: |
+| Agregar nodos | ✅ |
+| Eliminar nodos | ✅ |
+| Recorrer PreOrden | ✅ |
+| Recorrer PostOrden |  ✅ |
+| Recorrer EnOrden|  ✅ |
+| Arbol Simple | ✅ |
+| Arvol AVL | ✅|
+| Arbol RojoNegro |  ❌|
+| Mas funcionalidades Proximamente | ♻️ |
 
 ### Árboles Binarios
 
